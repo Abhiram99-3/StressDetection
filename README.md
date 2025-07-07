@@ -31,8 +31,12 @@ This project detects whether a person is stressed or not by analyzing their face
 1. User uploads a face image on the website
 2. The system detects the face using OpenCV
 3. The machine learning model checks the face and predicts:
-   - ✅ Not Stressed  
-   - ❌ Stressed
+   - Happy 😄
+   - Sad 😢
+   - Angry 😠
+   - Neutral 😐
+   - Fear 😨
+   - Surprise 😲
 4. The result is shown on the webpage
 
 ---
